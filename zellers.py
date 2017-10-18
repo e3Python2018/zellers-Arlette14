@@ -13,7 +13,7 @@ month= input("What month were you born?")
 # case,subtract 1 from C)
 months= ["March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "January", "Febraury"]
 # 3) Ask the user for the day of his birth, store it in variable B
-month_ABBR = ["Mar", "Apr", "May","Jun", "Jul", "Aug", "Sept", "Aug",]
+month_ABBR = ["Mar", "Apr", "May","Jun", "Jul", "Aug", "Sept", "Oct",]
 # 4) Ask the user for the year of his birth, store it in variable C
 # remember to subtract 1 as necessary
 
