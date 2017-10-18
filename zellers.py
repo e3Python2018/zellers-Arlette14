@@ -6,14 +6,14 @@
 # Get the user's birthday.
 
 # 1) Ask the user for the month of his birth as a number, store it in a temporary variable
-
+month= input("What month were you born?")
 # 2) Set A to the month using the following conversion, with March having the value 1, April the
 # value 2, . . ., December the value 10, and January and February being
 # counted as months 11 and 12 of the preceding year (in which
 # case,subtract 1 from C)
-
+months= ["March", "April", "May", "June", "July", "August", "September", "October", "November", "December", "January", "Febraury"]
 # 3) Ask the user for the day of his birth, store it in variable B
-
+month_ABBR = ["Mar", "Apr", "May","Jun", "Jul", "Aug", "Sept", "Aug",]
 # 4) Ask the user for the year of his birth, store it in variable C
 # remember to subtract 1 as necessary
 
